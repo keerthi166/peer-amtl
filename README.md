@@ -1,3 +1,3 @@
 # peer-amtl
 
-Source for "Active Learning from Peers" published in NIPS 2017
+Source code for "Active Learning from Peers" published in NIPS 2017
